@@ -1,0 +1,25 @@
+{
+  "Buses": [
+    {
+      "CarNumber": "1",
+      "Driver": "1. цв",
+      "RouteNumber": "12",
+      "Capacity": 0,
+      "ReleaseYear": 2025
+    }
+  ],
+  "Drivers": [
+    {
+      "ID": 1,
+      "FIO": "цв",
+      "BDate": "01.01.1980"
+    }
+  ],
+  "RouteNumbers": [
+    {
+      "routeNumber": "12",
+      "Start": "3213",
+      "End": "321"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Buses": [
+    {
+      "CarNumber": "111",
+      "Driver": "1. Стасик Стасепяка",
+      "RouteNumber": "4",
+      "Capacity": 12,
+      "ReleaseYear": 2025
+    }
+  ],
+  "Drivers": [
+    {
+      "ID": 1,
+      "FIO": "Стасик Стасепяка",
+      "BDate": "01.01.1980"
+    }
+  ],
+  "RouteNumbers": [
+    {
+      "routeNumber": "4",
+      "Start": "йцу",
+      "End": "йцу"
+    }
+  ]
+}
